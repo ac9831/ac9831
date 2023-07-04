@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ac9831&show_icons=true&theme=radical)
 <!--
 **ac9831/ac9831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
